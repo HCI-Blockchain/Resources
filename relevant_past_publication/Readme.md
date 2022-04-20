@@ -38,9 +38,9 @@
 
    - **Undergraduate students**: Dylan Paul, Majoring in Computer Science; Malika Rawal majoring in Economics with a concentration in Finance and minoring in Computer Science, Oum Lahade majoring in Electrical & Computer Engineering and minoring in Mathematics; Rhys Banerjee majoring in Computer Science with a concentration in AI and Machine Learning and minoring in Math, Duke University.
    - **Medium articles**: https://medium.com/sciecon-ama/decentralized-finance-cryptocurrency-and-blockchain-on-the-internet-computer-245380a3cd75
-10. Chen, Zichao, and Yufan Zhang. 2021. “NFT Marketplace: Introduction to NFT and NFT marketplace’s mechanism” **Medium Publication:** https://medium.com/sciecon-research/nft-marketplace-introduction-to-nft-and-nft-marketplaces-mechanism-9e45169841f9.
-15. Zhang, Yufan, and Zichao Chen. 2021. “NFT Marketplace: How to Choose the Right NFT Marketplace for Artists and Collectors” **Medium Publication:** https://medium.com/sciecon-research/nft-marketplace-how-to-choose-the-right-nft-marketplace-for-artists-and-collectors-5d4cc7cb1918.
-16. Zichao Chen, and Yufan Zhang, Executive Editors of the following publication on Medium for exploratory research in SciEcon Ask Me Anything (AMA) events. **Medium Publication:**
+10. Chen, Zichao\*, and Yufan Zhang\*. 2021. “NFT Marketplace: Introduction to NFT and NFT marketplace’s mechanism” **Medium Publication:** https://medium.com/sciecon-research/nft-marketplace-introduction-to-nft-and-nft-marketplaces-mechanism-9e45169841f9.
+15. Zhang, Yufan\*, and Zichao Chen\*. 2021. “NFT Marketplace: How to Choose the Right NFT Marketplace for Artists and Collectors” **Medium Publication:** https://medium.com/sciecon-research/nft-marketplace-how-to-choose-the-right-nft-marketplace-for-artists-and-collectors-5d4cc7cb1918.
+16. Zichao Chen\*, and Yufan Zhang\*, Executive Editors of the following publication on Medium for exploratory research in SciEcon Ask Me Anything (AMA) events. **Medium Publication:**
 
     - Development Status and Future Trends of Emerging NFT Market: https://medium.com/sciecon-ama/development-status-and-future-trends-of-emerging-nft-market-a522ebc968ff.
 17. Wu, Tianyu, and Jerry Zhang. 2022. “Explore the Sea of NFT - A US Legal Perspective”. **Medium**:  https://medium.com/sciecon-research/explore-the-sea-of-nft-f74eab9259de.
